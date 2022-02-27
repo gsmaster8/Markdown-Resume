@@ -1,16 +1,16 @@
  <center>
-     <h1>XXX</h1>
+     <h1>林浩成</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18888923312
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             601442991@qq.com
          </span>
-         ·
+         <!-- ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
              <a href="https://github.com/CyC2018">CyC2018</a>
@@ -19,44 +19,51 @@
          <span>
              <img src="assets/rss-solid.svg" width="18px">
              <a href="#">My Blog</a>
-         </span>
+         </span> -->
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 1994-10
+ - 求职意向：C/C++ 后端开发工程师
+ - 工作经验：2 年
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 硕士, 浙江大学, 计算机科学与技术专业, CAD&CG Lab, 2017.9 ~ 2020.3
+- 学士, 东北大学, 计算机科学与技术专业, 2013.9 ~ 2017.9
+- 连续获得校优秀学生奖学金, 绩点 top 10%
+- 大学生数学竞赛 2014 全国一等奖
+- acm-icpc 2015 shanghai ec-final 铜奖
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+#### <img src="assets/project-diagram-solid.svg" width="30px"> 腾讯，CSIG TRTC，后台开发 工程师，2020.4 - 今
 
-   负责 XXX
+&ensp;&ensp;&ensp;&ensp;&ensp;负责腾讯实时音视频TRTC的后台开发工作<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;主要模块是媒体传输模块<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;主要工作是负责用户接入、分发网络里的音视频数据, 降低用户的延迟感, 提升通信的流畅性<br>
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+- **数据缓存服务器与客户端开发**
+    - 工作角色: 主要开发者
+    - 服务端采用固定大小的线程池, 定时从数据库增量拉取、全量拉取数据; 客户端从服务端定时增量拉取、全量拉取, 写入本地共享内存; 本地业务进程从共享内存获取最新数据
+    - 数据存储采用自研的共享内存缓存组件, 存储信息为tlv格式
 
-- **XXXX 项目**
+- **自研 rt-quic 项目开发**
+    - 工作角色：参与者
+    - 面向实时音视频场景的QUIC传输协议实现
+    - 牺牲有序性来提升传输的实时性。（不存在流级别的传输阻塞问题）
+    - 采用对丢包不敏感的拥塞控制算法-BBR
 
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+ - **网络传输架构重构开发**
+    - 工作角色: 参与者
+    - 原始的网络架构下, 数据分发的收敛性较弱(数据分发容易产生广播)、容灾能力弱(房间管理容易出现单点故障); 新架构减少了网络分发的包量, 节省带宽费用, 提升了整体架构的可靠性
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★★ 熟练掌握 Linux 下的开发, 以及网络、负载等问题的排查
+- ★★★ 熟练掌握各类数据结构与算法
+- ★★★ 熟练掌握 C/C++, python
+- ★★☆ 会基本使用 MySQL, Redis, docker
+- ★★☆ 了解常见的设计模式
