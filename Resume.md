@@ -1,14 +1,14 @@
  <center>
-     <h1>林浩成</h1>
+     <h1>邓世杰</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             18888923312
+             13237612997
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             601442991@qq.com
+             1097712617@qq.com
          </span>
          <!-- ·
          <span>
@@ -26,18 +26,17 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
 
  - 求职意向：后端开发工程师
- - 工作经验：2020.3 至今
+ - 工作经验：2021.6 至今
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士, 浙江大学, 计算机科学与技术, CAD&CG 国家重点实验室, 2017.9 ~ 2020.3
-- 学士, 东北大学, 计算机科学与技术, 2013.9 ~ 2017.6
-- 大学生数学竞赛 2014 全国一等奖
-- acm-icpc 2015 shanghai EC-Final 铜奖
+- **硕士**, 湖南大学, 信息与通信工程, 2018.9 ~ 2021.6
+- **学士**, 南昌大学, 通信工程, 2014.9 ~ 2018.6
+- 学业奖学金：一等奖学金（2019.11），二等奖学金（2018.11），一等奖学金（2018.05）
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- 腾讯，后台开发工程师，2020.3 - 今
+- 腾讯，后台开发工程师，2021.6 - 今
 
 &ensp;&ensp;&ensp;&ensp;&ensp;负责腾讯实时音视频TRTC的后台开发工作<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;主要负责模块是音视频数据分发服务（负责用户接入、分发网络里的音视频数据, 降低用户的延迟感, 提升通信的流畅性），也包含了trtc内部协议的开发与维护（主播与观众的进退房逻辑、推拉流逻辑、音视频流订阅逻辑等）<br>
@@ -83,7 +82,7 @@
 - 熟练掌握 Linux 下的开发, 有x86 avx指令集优化经验, 能通过 tcpdump, netstat 等工具结合wireshark进行网络问题的排查、会通过perf火焰图优化性能排查负载问题
 - 深入理解各类数据结构, 如kdtree, skiplist; 有阅读源码的习惯, 如c_coroutine
 协程库, kcp协议的实现; 了解常用的网络拥塞控制算法, 如New Reno, cubic, bbr
-- 编程语言 C/C++ 为主, golang / python 为辅
+- 编程语言 C/C++ 为主, python / shell 为辅
 - 具有大规模分布式系统经验, 熟悉 CAP 、Quorum 、Consistent Hashing 等原理
 - 会基本使用 MySQL, Redis, kafka, docker
 
