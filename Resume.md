@@ -74,13 +74,13 @@
 ## <img src="assets/project-diagram-solid.svg" width="30px">  所获荣誉
 - 年度业务突破奖（202212）
 - 自研上云云原生奖（202212）
-- 腾讯成本优化突破奖 (202112)
+- 腾讯成本优化突破奖（202112）
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - 熟练掌握Linux下的开发，能通过tcpdump，netstat等工具结合wireshark进行网络问题的排查、会通过perf火焰图优化性能排查负载问题
 - 熟悉常用的数据结构和算法，git flow工作流等
 - 编程语言C/C++为主，python/shell为辅
-- 具有大规模分布式系统经验, 熟悉CAP、Quorum、Consistent Hashing等原理
-- 会基本使用MySQL，Redis，docker，kafka
+- 具有大规模分布式系统经验, 熟悉CAP、Consistent Hashing等原理
+- 会基本使用MySQL，Redis，docker
 
